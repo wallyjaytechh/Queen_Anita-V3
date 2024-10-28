@@ -69,7 +69,7 @@ global.autoreact = false;
 
 global.welcome = true;
 
-global.prefix = '.';
+global.prefix = '#';
 
 global.autobio = false;
 
